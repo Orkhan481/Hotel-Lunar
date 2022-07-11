@@ -267,7 +267,7 @@ nav .togglers{
   
 }
 .room-image{
-  width: 440px;
+  width: 400px;
   height: 250px;
   background-size: cover;
   margin:10px 0px;
@@ -277,7 +277,7 @@ nav .togglers{
   transform: scale(1.1);
 }
 .our-rooms{
-  width: 90%;
+  width: 80%;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -302,7 +302,7 @@ justify-content: center;
   align-items: center;
 }
 .rooms .price{
-  width: 440px;
+  width: 400px;
   display: flex;
   justify-content: space-between;
   align-items: center;
