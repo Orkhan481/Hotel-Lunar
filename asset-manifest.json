@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Hotel-Lunar/static/css/main.20411e25.css",
+    "main.js": "/Hotel-Lunar/static/js/main.d8ea9d33.js",
+    "static/js/109.63e0ccea.chunk.js": "/Hotel-Lunar/static/js/109.63e0ccea.chunk.js",
+    "static/js/301.dedb4ec8.chunk.js": "/Hotel-Lunar/static/js/301.dedb4ec8.chunk.js",
+    "static/js/149.d8e4886a.chunk.js": "/Hotel-Lunar/static/js/149.d8e4886a.chunk.js",
+    "index.html": "/Hotel-Lunar/index.html",
+    "main.20411e25.css.map": "/Hotel-Lunar/static/css/main.20411e25.css.map",
+    "main.d8ea9d33.js.map": "/Hotel-Lunar/static/js/main.d8ea9d33.js.map",
+    "109.63e0ccea.chunk.js.map": "/Hotel-Lunar/static/js/109.63e0ccea.chunk.js.map",
+    "301.dedb4ec8.chunk.js.map": "/Hotel-Lunar/static/js/301.dedb4ec8.chunk.js.map",
+    "149.d8e4886a.chunk.js.map": "/Hotel-Lunar/static/js/149.d8e4886a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20411e25.css",
+    "static/js/main.d8ea9d33.js"
+  ]
+}

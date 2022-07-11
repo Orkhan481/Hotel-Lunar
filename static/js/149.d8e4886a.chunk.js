@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkhotel_lunar=self.webpackChunkhotel_lunar||[]).push([[149],{149:function(e,n,t){t.r(n);t(791);var s=t(628),l=t.n(s),a=t(184);n.default=function(){return(0,a.jsx)(a.Fragment,{children:(0,a.jsx)("div",{className:"contact",children:(0,a.jsx)("h1",{className:"text-pink xlg-text",children:(0,a.jsx)(l(),{strings:["CONTACT US"],typeSpeed:60})})})})}}}]);
+//# sourceMappingURL=149.d8e4886a.chunk.js.map
