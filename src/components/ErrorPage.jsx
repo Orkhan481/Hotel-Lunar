@@ -8,7 +8,7 @@ const ErrorPage = () => {
     <h1>Forbidden</h1>
     <span>403</span>
     <h2>We are sorry,but you don't have access to this page or resource</h2>
-    <button className='btn'><Link to="/">Back to Home Page</Link></button>
+    <button className='btn'><Link to="/Hotel-Lunar">Back to Home Page</Link></button>
     </div>
   )
 }
