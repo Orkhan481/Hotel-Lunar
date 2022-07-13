@@ -301,6 +301,7 @@ nav {
   justify-content: center;
   align-items: center;
   text-align: center;
+  color:var(--grey);
 
 }
 
@@ -347,10 +348,20 @@ nav {
 
 .swiper-slide {
   display: flex;
-  justify-content: center;
+  justify-content: space-around;
   align-items: center;
 }
-
+@media(max-width:900px){
+  .our-galeries {
+    width: 100%;
+  }
+  .card-image {
+    width: 180px;
+    height: 120px;
+    margin: 0;
+    padding:0 15px;
+  }
+}
 /* ************************ */
 /* ROOMS&SUITES PAGE */
 .rooms-page {
