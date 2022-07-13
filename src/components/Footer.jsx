@@ -19,10 +19,10 @@ const Footer = () => {
     <div className="footer-nav-links">
 
 
-        <a className='lg-text'><Link to="/Hotel-Lunar/" className='link'>Home</Link></a>
-        <a className='lg-text'><Link to="/roomssuites/" className='link'>Rooms&Suites</Link></a>
-        <a className='lg-text'><Link to="/facilities/" className='link'>Facilities</Link></a>
-        <a className='lg-text'><Link to="/contact/" className='link'>Contact</Link></a>
+        <a className='lg-text'><Link to="/" className='link'>Home</Link></a>
+        <a className='lg-text'><Link to="/roomssuites" className='link'>Rooms&Suites</Link></a>
+        <a className='lg-text'><Link to="/facilities" className='link'>Facilities</Link></a>
+        <a className='lg-text'><Link to="/contact" className='link'>Contact</Link></a>
 
     </div>
 
