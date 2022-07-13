@@ -1,5 +1,6 @@
 import React from 'react';
 import Typed from 'react-typed';
+import { Link } from 'react-router-dom';
 import 'swiper/css';
 import "swiper/css/bundle";
 import "swiper/css/grid";
@@ -21,7 +22,7 @@ const Home = () => {
           >
           </Typed>
         </h1>
-        <button className='btn btn-pink text-white md-text'>Reserve Now</button>
+        <button className='btn btn-pink text-white md-text'><Link to="/contact" className='link'>Reserve Now</Link></button>
       </div>
       {/* ABOUT START */}
       <div className='about'>

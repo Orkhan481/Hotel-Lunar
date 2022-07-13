@@ -1,5 +1,6 @@
 import React from 'react'
 import Typed from 'react-typed';
+import { Link } from 'react-router-dom';
 const RoomsSuites = () => {
   return (
     <>
@@ -25,7 +26,7 @@ const RoomsSuites = () => {
           </div>
           <div className="price">
              <span className='text-pink lg-text'>100,000 per night</span> 
-             <button className='btn btn-pink text-white sm-text'>Book Now</button>
+             <button className='btn btn-pink text-white sm-text'> <Link to="/contact" className='link'>Book Now</Link></button>
           </div>
         </div>
 {/* ROOM-2 */}
@@ -39,7 +40,7 @@ const RoomsSuites = () => {
           </div>
           <div className="price">
              <span className='text-pink lg-text'>50,000 per night</span> 
-             <button className='btn btn-pink text-white sm-text'>Book Now</button>
+             <button className='btn btn-pink text-white sm-text'><Link to="/contact" className='link'>Book Now</Link></button>
           </div>
         </div>
 
@@ -54,7 +55,7 @@ const RoomsSuites = () => {
           </div>
           <div className="price">
              <span className='text-pink lg-text'>150,000 per night </span> 
-             <button className='btn btn-pink text-white sm-text'>Book Now</button>
+             <button className='btn btn-pink text-white sm-text'><Link to="/contact" className='link'>Book Now</Link></button>
           </div>
         </div>
 
@@ -69,7 +70,7 @@ const RoomsSuites = () => {
           </div>
           <div className="price">
              <span className='text-pink lg-text'>50,000 per night</span> 
-             <button className='btn btn-pink text-white sm-text'>Book Now</button>
+             <button className='btn btn-pink text-white sm-text'><Link to="/contact" className='link'>Book Now</Link></button>
           </div>
         </div>
         {/* ROOM-5 */}
@@ -83,7 +84,7 @@ const RoomsSuites = () => {
           </div>
           <div className="price">
              <span className='text-pink lg-text'>150,000 per night</span> 
-             <button className='btn btn-pink text-white sm-text'>Book Now</button>
+             <button className='btn btn-pink text-white sm-text'><Link to="/contact" className='link'>Book Now</Link></button>
           </div>
         </div>
 
@@ -98,7 +99,7 @@ const RoomsSuites = () => {
           </div>
           <div className="price">
              <span className='text-pink lg-text'>50,000 per night</span> 
-             <button className='btn btn-pink text-white sm-text'>Book Now</button>
+             <button className='btn btn-pink text-white sm-text'><Link to="/contact" className='link'>Book Now</Link></button>
           </div>
         </div>
 
