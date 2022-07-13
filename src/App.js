@@ -16,12 +16,12 @@ function App() {
   return (
     <div className="App">
     <BrowserRouter>
-    <Suspense fallback={<p className='loader'></p>}>
+    <Suspense fallback={<div className='loader'></div>}>
 
     <Routes>
        <Route path="/*" element={<NavbarFooter />} > 
        
-       <Route path="" element={<Home/>}/>
+       <Route path="/" element={<Home/>} />
       <Route path="roomssuites" element={<RoomsSuites/>}/>
       <Route path="facilities" element={<Facilities/>}/>
       <Route path="contact" element={<Contact/>}/>
