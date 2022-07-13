@@ -22,14 +22,14 @@ const Navbar = () => {
         //     </div>
         <nav class="top-nav">
             <div>
-                <li><Link to="/" id='logo' className='link'>Hotel Lunar</Link></li>
+                <li><Link to="/hotel-lunar" id='logo' className='link'>Hotel Lunar</Link></li>
             </div>
             <input id="menu-toggle" type="checkbox" />
             <label class='menu-button-container' for="menu-toggle">
                 <div class='menu-button'></div>
             </label>
             <ul class="menu">
-                <li><Link to="/" className='link'>Home</Link></li>
+                <li><Link to="/hotel-lunar" className='link'>Home</Link></li>
                 <li><Link to="/roomssuites" className='link'>Rooms&Suites</Link></li>
                 <li><Link to="/facilities" className='link'>Facilities</Link></li>
                 <li><Link to="/contact" className='link'>Contact</Link></li>
